@@ -1,0 +1,11 @@
+<XML>
+    <appID>2</appID>
+    <sid>1</sid>
+    <msgType>1</msgType>
+    <subscriberId>123456</subscriberId>
+    <status>1</status>
+    <nickName>test</nickName>
+    <content>How are you today?</content>
+    <dataSource>0</dataSource>
+    <dataType>4</dataType>
+</XML>
